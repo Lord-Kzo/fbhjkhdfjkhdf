@@ -2,7 +2,7 @@
  .'/,-Y"     "~-.  
  l.Y             ^.                   UNIVERSIDAD NACIONAL DE INGENIERÍA 
  /\               _\_  
-i            ___/"   "\ 		  CURSO DE ESPECIALIZACIÓN
+i            ___/"   "\ 		 
 |          /"   "\   o !   
 l         ]     o !__./   
  \ _  _    \.___./    "~\  
